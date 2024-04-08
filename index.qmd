@@ -2,13 +2,13 @@
 title: "Welcome!"
 ---
 
-I'm starting my PhD in economics in the fall of 2024. My research interests are in labor and public public economics, and applied micro more broadly. I'm currently a pre-doc at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.
+I'm starting my PhD in economics in the fall of 2024. My research interests are in labor and public economics, and applied micro more broadly. I'm currently a pre-doc at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.
 
 ## Research
 
 #### Published and forthcoming
 
--   Health effects of cousin marriage: evidence from US genealogical records (with [Sam Hwang](https://sites.google.com/site/samilmyounghwang/) and [Munir Squires](https://www.munirsquires.com/), accepted at AER:Insights)
+-   Health effects of cousin marriage: evidence from US genealogical records (with [Sam Hwang](https://sites.google.com/site/samilmyounghwang/) and [Munir Squires](https://www.munirsquires.com/), accepted at [AER:Insights](https://www.aeaweb.org/journals/aeri))
     -   [Link](CM_Longevity__2024_03__resubmission_.pdf)
     -   Abstract: Cousin marriage rates are high in many countries today. We provide the first estimate of the effect of such marriages on the life expectancy of offspring. By studying couples married over a century ago, we observe their offspring across the lifespan. Using US genealogical data to identify children whose parents were first cousins, we compare their years of life to the offspring of their parents' siblings. We find that marrying a cousin leads to more than a three-year reduction in offspring life expectancy. This effect is strikingly stable across time, despite large changes in life expectancy and economic environment.
 
